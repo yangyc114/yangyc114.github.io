@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-13T17:35:34.417Z</updated>
+  <updated>2020-05-13T17:49:16.782Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>寻城记的内容</title>
+    <link href="http://yoursite.com/2020/05/14/%E5%AF%BB%E5%9F%8E%E8%AE%B0%E7%9A%84%E5%86%85%E5%AE%B9/"/>
+    <id>http://yoursite.com/2020/05/14/%E5%AF%BB%E5%9F%8E%E8%AE%B0%E7%9A%84%E5%86%85%E5%AE%B9/</id>
+    <published>2020-05-13T17:46:47.000Z</published>
+    <updated>2020-05-13T17:49:16.782Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="寻城记" scheme="http://yoursite.com/categories/%E5%AF%BB%E5%9F%8E%E8%AE%B0/"/>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>如何高效获取网络信息</title>
@@ -47,7 +66,7 @@
     <link href="http://yoursite.com/2020/02/19/%E6%88%91%E5%92%8C%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%95%85%E4%BA%8B/"/>
     <id>http://yoursite.com/2020/02/19/%E6%88%91%E5%92%8C%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2020-02-19T09:00:15.000Z</published>
-    <updated>2020-05-04T12:23:38.242Z</updated>
+    <updated>2020-05-13T17:48:33.829Z</updated>
     
     <content type="html"><![CDATA[<p>　　第一篇文章，按照惯例，还是应该说一下为什么写博客。为什么要写博客？这个问题得从我和互联网的初识说起。</p><p>　　我第一次接触电脑在初一，学校有计算机教室但是不联网。每周都会有一节计算机课，也没有教材或者老师上课。电脑上装了一个金山打字软件，里面有几个用来练习打字的游戏。除了这个，就是windows自带的程序和小游戏。我的初中开始于2007年，班上已经开始流行mp3、mp4，初三时，我的好朋友开始去网吧，会下一些歌回来听，以及跟我回来讲他看的电影，比如《生化危机》系列、《异形》系列，而我，此时对这些电影的知识还仅限于《第十放映室》的点评。</p><p>　　高中，学校的机房在周六、周日会开放，我与互联网的第一次接触，便是在同学的指导下注册了一个QQ号。每个星期，都去机房下歌、下电影，玩偷菜玩得不亦乐乎。高一第一学期结束，跟朋友第一次去网吧，玩几分钟的CS，就忍不住恶心，结果在网吧看了一晚上的《生化危机》。后来网吧管理越来越严，不再开临时上网的账号，高三成年的那个晚上，我的身份证就被舍友借走注册了账号。我已经多年没有去过网吧了，但是登陆密码却一直也没有忘记。</p><p>　　2014年，我淘宝买了一个二手的T430，有了自己的第一个电脑。我的很多网站账号都注册于这年，也遇到了一些可以说对我影响很深的网站，比如v2ex、异次元、豆瓣。因为Ｖ站，开始了自己的翻墙之旅，而异次元里一篇关于谷歌 Google 搜索技巧的文章，我受益至今。</p><p>　　以上是我接触计算机、接触网络的几个重要节点，跟很多人相比，我接触网络并不能算早，但也获益良多。因为很多人的乐于分享，很多问题都可以在网上找到答案，我也靠这些知识解决了很多工作、生活中的问题。而现在，我希望把我所了解的，也放到网上，放到这个无边无际的信息海洋里。如果有天，能够有幸对某人有一丝帮助，就再好不过了；若让人能够感叹“哇！互联网真是个好东西”，便是我最开心的事情。</p>]]></content>
     
@@ -62,7 +81,7 @@
     </summary>
     
     
-      <category term="生活记录" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+      <category term="互联网事" scheme="http://yoursite.com/categories/%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%8B/"/>
     
     
       <category term="互联网" scheme="http://yoursite.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
